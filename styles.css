@@ -562,5 +562,17 @@ form {
         grid-template-columns: 1fr 1fr 1fr;
         align-items: center;
     }
+    footer {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        background-color: #EAEAEA;
+        justify-content: center;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 20px;
+
+
+
+    }
 
 }
